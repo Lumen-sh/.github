@@ -3,7 +3,7 @@
 
   <br/><br/>
 
-  <a href="https://x.com/LumenTech" target="_blank">
+  <a href="https://x.com/LumenSecurity" target="_blank">
     <img src="https://img.shields.io/badge/X-LumenTech-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
