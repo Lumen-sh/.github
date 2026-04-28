@@ -1,7 +1,8 @@
-<div align="center">
+<img width="1983" height="793" alt="LumenBanner2" src="https://github.com/user-attachments/assets/e3542730-61c6-4fbc-9315-bdd2addcb5f0" /><div align="center">
 
   <!-- BANNER -->
- <img width="1983" height="793" alt="LumenBanner2" src="https://github.com/user-attachments/assets/0c6b45fc-312b-4995-8e8b-054f8cc1e74a" />
+  <img width="1983" height="793" alt="LumenBanner2" src="https://github.com/user-attachments/assets/b65089b5-8312-49ba-8ec3-0ebe4173edc7" />
+
 
   <br/><br/>
 
@@ -16,5 +17,5 @@
 
 ## 👥 Organization Members
 
-- @synpacketeye
-- @Kayc3sh
+- [@Lumen-sh](https://github.com/Lumen-sh)
+- [@synpacketeye](https://github.com/synpacketeye)
