@@ -16,5 +16,5 @@
 
 ## 👥 Organization Members
 
-- @Lumen-sh  
+- @synpacketeye
 - @Kayc3sh
