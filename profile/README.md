@@ -1,3 +1,5 @@
-<img width="1983" height="793" alt="LumenBanner2" src="https://github.com/user-attachments/assets/199de982-8086-4dfb-b687-a705184610af" />
+<div align="center">
 
-🔗 X (Twitter): https://x.com/LumenTech
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:7a00ff&height=200&section=header&text=Lumen&fontSize=70&fontColor=ffffff&animation=fadeIn" />
+
+</div>
