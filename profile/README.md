@@ -15,5 +15,5 @@
 
 ## 👥 Organization Members
 
-- [@Lumen-sh](https://github.com/Lumen-sh)
+- [@Kayc3sh](https://github.com/Kayc3sh)
 - [@synpacketeye](https://github.com/synpacketeye)
